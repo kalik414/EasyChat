@@ -1,0 +1,6 @@
+name: EasyChat
+version: '1.0-en'
+author: kalienda
+usage: Put "!" before the message in chat to make it global.
+main: dev.kali.easychat
+api-version: '1.21'
